@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "394629696253",
+    "firebase_url": "https://tipoff-app.firebaseio.com",
+    "project_id": "tipoff-app",
+    "storage_bucket": "tipoff-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:394629696253:android:eb6ceb3c340e268e934c94",
+        "android_client_info": {
+          "package_name": "com.example.tip_off"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "394629696253-9sm6d4v5jlsnlsfnbvoaq6m63bfc57jc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBHTJ1_m7zdFw5O6nRQFYqHgrIkOMglwo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "394629696253-9sm6d4v5jlsnlsfnbvoaq6m63bfc57jc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
